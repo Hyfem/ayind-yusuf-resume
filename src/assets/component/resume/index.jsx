@@ -3,7 +3,7 @@ import './index.css'
 function resume (){
     return(
         <div className='w-full flex  justify-center'>
-            <div className='w-[90%] items-center justify-center '>
+            <div className='w-full p-4 items-center justify-center '>
                 <div className='border-b border-black'>
                     <div>
                       <h1>AYINDE YUSUF IFEMI.</h1>
@@ -32,7 +32,7 @@ function resume (){
                     <h2 className='border-b border-black'>WORK EXPERIENCE</h2>
                     
 
-                    <div className='w-full mt-8 flex gap-10 ml-10'>
+                    <div className='w-full mt-8 flex gap-10 m-10'>
                         <div className='w-[250px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
@@ -41,7 +41,7 @@ function resume (){
                             </ul>
 
                         </div>
-                        <div className='w-[800px] h-fit'>
+                        <div className='w-[400px]  h-fit'>
                            <ul>
                              <li className='list-disc'>
                             Developed and managed a full eCommerce platform 
@@ -54,7 +54,7 @@ function resume (){
                         </div>
 
                     </div>
-                    <div className='w-full mt-8 flex gap-10 ml-10'>
+                    <div className='w-full mt-8 flex gap-10 m-10'>
                         <div className='w-[250px] h-fit'>
                            <ul className='list-disc '>
                             <li>
@@ -63,7 +63,7 @@ function resume (){
                             </li>
                            </ul>
                         </div>
-                        <div className='w-[800px] h-fit'>
+                        <div className='w-[400px] h-fit'>
                            <ul>
                              <li className='list-disc'>
                                 Designed and developed responsive landing 
@@ -79,7 +79,7 @@ function resume (){
                         </div>
                     
                     </div>
-                    <div className='w-full mt-8 flex gap-10 ml-10'>
+                    <div className='w-full mt-8 flex gap-10 m-10'>
                         <div className='w-[250px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
@@ -87,7 +87,7 @@ function resume (){
                                 </li>
                             </ul>
                         </div>
-                        <div className='w-[800px] h-fit'>
+                        <div className='w-[400px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
                                     Initially joined Eko FM as part of a 6-month 
