@@ -19,19 +19,19 @@ function resume (){
                 <div className='w-full m-4 text-left'>
                     <h2 className='border-b border-black w-fit'> PROFESSIONAL SUMARY </h2>
                     <p className='m-8'>
-                        Full Stack Web Developer with strong experience building scalable web applications,
-                        RESTful APIs, and backend systems using Python and Django. Skilled in designing
-                        secure and efficient APIs, implementing authentication and permission-based systems,
-                        and optimizing application performance. Experienced in Quality Assurance, including
-                        manual testing, API validation, bug tracking, and browser-based debugging using
-                        developer tools to identify and resolve issues. Strong collaborator with a focus on
-                        clean code, problem-solving, and delivering reliable, user-centered applications.
+                        Full Stack Web Developer with strong experience building scalable web applications
+                        and RESTful APIs using modern frontend and backend technologies. Skilled in backend
+                        security, authentication, authorization, and permission-based systems with a focus
+                        on clean architecture and performance optimization. Experienced in Quality Assurance
+                        including manual testing, API validation, browser debugging, and identifying system
+                        issues using developer tools. Strong collaborator with excellent problem-solving skills
+                        and attention to detail, focused on delivering reliable and efficient software solutions.
                     </p>
 
                 </div>
-
                 <div className='w-full m-4 text-left'>
                     <h2 className='border-b border-black'>WORK EXPERIENCE</h2>
+                    
 
                     <div className='w-full mt-8 flex gap-10 m-10'>
                         <div className='w-[250px] h-fit'>
@@ -45,22 +45,22 @@ function resume (){
                         <div className='w-[400px]  h-fit'>
                            <ul>
                              <li className='list-disc'>
-                                Performed manual quality assurance testing on web applications and AI systems
-                                to identify functional, usability, and performance issues.
+                                Performed manual QA testing on web applications and AI systems to identify bugs,
+                                usability issues, and performance problems.
                              </li>
                              <li className='list-disc'>
-                                Used browser developer tools to inspect network requests, API responses,
-                                console logs, and frontend behavior for debugging and issue detection.
+                                Used browser developer tools to inspect network requests, API responses, console logs,
+                                and frontend behavior for debugging and validation.
                              </li>
                              <li className='list-disc'>
-                                Reviewed backend logic and system outputs to ensure accuracy, consistency,
-                                and compliance with requirements.
+                                Reviewed backend logic, workflows, and system outputs to ensure accuracy and compliance
+                                with requirements.
                              </li>
                              <li className='list-disc'>
-                                Logged and documented bugs with clear reproduction steps and improvement suggestions.
+                                Logged detailed bug reports with clear reproduction steps and improvement recommendations.
                              </li>
                              <li className='list-disc'>
-                                Collaborated with teams to validate fixes and ensure quality standards were maintained.
+                                Worked with technical teams to verify fixes, perform regression testing, and maintain quality standards.
                              </li>
                            </ul>
 
@@ -80,32 +80,30 @@ function resume (){
                         <div className='w-[400px] h-fit'>
                            <ul>
                              <li className='list-disc'>
-                                Developed and managed a full eCommerce platform 
-                                for Bakes N Crave using React and Tailwind CSS for
-                                the frontend, and backend services with Python (Django)
-                                and MySQL. Built RESTful APIs, implemented authentication,
-                                and integrated database-driven features to deliver a complete
-                                user experience.
-                             </li>
+                                Developed and managed a full eCommerce platform for Bakes N Crave using React
+                                and Tailwind CSS for the frontend while building backend services with Python
+                                (Django) and MySQL. Built RESTful APIs, implemented authentication and permission
+                                systems, and integrated database-driven functionality for a smooth user experience.
+                            </li>
                            </ul>
                         </div>
-
+                    
                     </div>
 
                     <div className='w-full mt-8 flex gap-10 m-10'>
                         <div className='w-[250px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
-                                    2024 <br /> FRONTEND WEB DEVELOPER <br /> SPACEAIR
+                                    2024 <br />FRONTEND WEB DEVELOPER <br /> SPACEAIR
                                 </li>
                             </ul>
                         </div>
                         <div className='w-[400px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
-                                    Designed and developed responsive landing pages and frontend interfaces
-                                    for startups and e-commerce platforms using React, JavaScript, and Tailwind CSS.
-                                    Built the complete frontend experience for the SPACEAIR startup platform.
+                                    Designed and developed responsive landing pages and frontend interfaces for startups
+                                    and e-commerce platforms using React, JavaScript, and Tailwind CSS. Built the complete
+                                    frontend experience for the SPACEAIR startup platform.
                                 </li>
                             </ul>
                         </div>
@@ -122,14 +120,13 @@ function resume (){
                         <div className='w-[400px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
-                                    Provided technical support for broadcast systems, office hardware,
-                                    and software troubleshooting.
+                                    Provided technical support for broadcast systems, office hardware, and software troubleshooting.
                                 </li>
                                 <li>
                                     Assisted in maintaining system uptime and resolving network-related issues.
                                 </li>
                                 <li>
-                                    Supported live broadcast setup and ensured smooth daily operations.
+                                    Supported live broadcast setup and ensured smooth system operations.
                                 </li>
                             </ul>
                         </div>
@@ -143,6 +140,7 @@ function resume (){
                         <li><h4>Mass Communication</h4></li>
                         <li><p>Kwara State Polytechnic Nigeria</p></li>
                         <li><p>2016-2018</p></li>
+
                     </ul>
                 </div>
 
@@ -160,7 +158,6 @@ function resume (){
                             <li>Bootstrap</li>
                         </ul>
                     </div>
-
                     <div className='w-[200px] mt-4'>
                         <h3><b>BACKEND</b></h3>
                         <ul className='list-disc list-inside'>
@@ -169,21 +166,21 @@ function resume (){
                             <li>Sql/MySql</li>
                         </ul>
                     </div>
-
                     <div className='w-[250px] mt-4'>
                         <h3><b>REFERENCE</b></h3>
-                        <p>Available Upon Request</p>
+                        <p>BAKES N CRAVE</p>
+                        <p>+2348134697642</p>
                     </div>
-
                     <div className='w-[350px] mt-4'>
                         <h3><b>PORTFOLIO</b></h3>
                         <p>https://yusufproport.vercel.app/</p>
                     </div>
                 </div>
                     </div>
+
             </div>
+
         </div>
     )
 }
-
 export default resume;
