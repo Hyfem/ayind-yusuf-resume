@@ -81,9 +81,9 @@ function resume (){
                            <ul>
                              <li className='list-disc'>
                                 Developed and managed a full eCommerce platform 
-                                for Bakes N Crave using React and Tailwind CSS for
+                                using React and Tailwind CSS for
                                 the frontend, and backend services with Python (Django)
-                                and MySQL. Built RESTful APIs, implemented authentication,
+                                . Built RESTful APIs, implemented authentication,
                                 and integrated database-driven features to deliver a complete
                                 user experience.
                              </li>
