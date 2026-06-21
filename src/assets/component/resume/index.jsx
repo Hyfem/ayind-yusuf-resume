@@ -49,7 +49,8 @@ function resume (){
                                 to identify functional, usability, and performance issues.
                              </li>
                              <li className='list-disc'>
-                                Used browser developer tools to inspect network requests, API responses,
+                                Used browser developer tools to inspect 
+                                <br /> network requests, API responses,
                                 console logs, and frontend behavior for debugging and issue detection.
                              </li>
                              <li className='list-disc'>
