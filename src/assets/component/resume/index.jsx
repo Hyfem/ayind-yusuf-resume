@@ -42,7 +42,7 @@ function resume (){
                             </ul>
 
                         </div>
-                        <div className='w-[400px]  h-fit'>
+                        <div className='w-[350px]  h-fit'>
                            <ul>
                              <li className='list-disc'>
                                 Performed manual quality assurance testing on web applications and AI systems
@@ -77,7 +77,7 @@ function resume (){
                             </li>
                            </ul>
                         </div>
-                        <div className='w-[400px] h-fit'>
+                        <div className='w-[350px] h-fit'>
                            <ul>
                              <li className='list-disc '>
                                 Developed and managed a full eCommerce platform 
@@ -100,7 +100,7 @@ function resume (){
                                 </li>
                             </ul>
                         </div>
-                        <div className='w-[400px] h-fit'>
+                        <div className='w-[350px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
                                     Designed and developed responsive landing pages and frontend interfaces
@@ -119,7 +119,7 @@ function resume (){
                                 </li>
                             </ul>
                         </div>
-                        <div className='w-[400px] h-fit'>
+                        <div className='w-[350px] h-fit'>
                             <ul className='list-disc '>
                                 <li>
                                     Provided technical support for broadcast systems, office hardware,
