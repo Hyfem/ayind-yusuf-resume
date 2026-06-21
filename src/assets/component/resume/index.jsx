@@ -77,7 +77,7 @@ function resume (){
                             </li>
                            </ul>
                         </div>
-                        <div className='w-[350x] h-fit'>
+                        <div className='w-[350px] h-fit'>
                            <ul>
                              <li className='list-disc '>
                                 Developed and managed a full eCommerce platform 
