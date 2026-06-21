@@ -44,7 +44,7 @@ function resume (){
                         </div>
                         <div className='w-[350px]  h-fit'>
                            <ul>
-                             <li className='list-disc'>
+                             <li className='list-disc pr-4'>
                                 Performed manual quality assurance testing on web applications and AI systems
                                 to identify functional, usability, and performance issues.
                              </li>
@@ -79,7 +79,7 @@ function resume (){
                         </div>
                         <div className='w-[350px] h-fit'>
                            <ul>
-                             <li className='list-disc '>
+                             <li className='list-disc pr-4 '>
                                 Developed and managed a full eCommerce platform 
                                 using React and Tailwind CSS for
                                 the frontend, and backend services with Python (Django)
@@ -101,7 +101,7 @@ function resume (){
                             </ul>
                         </div>
                         <div className='w-[350px] h-fit'>
-                            <ul className='list-disc '>
+                            <ul className='list-disc pr-4 '>
                                 <li>
                                     Designed and developed responsive landing pages and frontend interfaces
                                     for startups and e-commerce platforms using React, JavaScript, and Tailwind CSS.
@@ -120,7 +120,7 @@ function resume (){
                             </ul>
                         </div>
                         <div className='w-[350px] h-fit'>
-                            <ul className='list-disc '>
+                            <ul className='list-disc pr-4 '>
                                 <li>
                                     Provided technical support for broadcast systems, office hardware,
                                     and software troubleshooting.
