@@ -138,7 +138,7 @@ function resume (){
 
                 <div className='w-full m-8 text-left'>
                     <h2 className='border-b border-black'>EDUCATION</h2>
-                    <ul className='w full flex mt-4 gap-20'>
+                    <ul className='w full flex mt-4 gap-12'>
                         <li className='list-disc ml-10'><h4>National Diploma</h4></li>
                         <li><h4>Mass Communication</h4></li>
                         <li><p>Kwara State Polytechnic Nigeria</p></li>
